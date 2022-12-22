@@ -2,7 +2,7 @@
 
 Teste img
 
-![my-img](img-teste.png)
+![my-img](img.png)
 
 
 Mixture Variants:
